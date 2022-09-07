@@ -9,7 +9,6 @@ A very simple interface for translation, here is execution on your screen
 On the top left, it have two lines text. You can import your language as lowercase text at the line 1 and import any languages as the same form as the line 1 you need to translate at the line 2, like that : 
 
 
-
 ![Screenshot (164)](https://user-images.githubusercontent.com/100022706/188746492-dd087742-457d-474d-9a3d-f752377277a5.png)
 
 
