@@ -12,6 +12,12 @@ On the top left, it have two lines text. You can import your language as lowerca
 ![Screenshot (164)](https://user-images.githubusercontent.com/100022706/188746492-dd087742-457d-474d-9a3d-f752377277a5.png)
 
 
+List languages are available with this tool : 
+
+
+![Screenshot (165)](https://user-images.githubusercontent.com/100022706/188791069-68efce7c-cf5f-492b-a00c-1d2886749b4d.png)
+
+
 
 That's all...Cheers !!!
 
