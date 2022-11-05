@@ -1,4 +1,4 @@
-#### A simple tool for translation combine real time clock
+### A simple tool for translation combine real time clock
 
 A very simple interface for translation, here is execution on your screen
 
@@ -19,5 +19,5 @@ List languages are available with this tool, short or long name both OK :
 
 
 
-#### That's all...Cheers !!!
+### That's all...Cheers !!!
 
