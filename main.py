@@ -48,6 +48,7 @@ def trans() :
     a = t.translate(INPUT, src = INPUTsrc, dest = INPUTdst)
     b = a.text
     box1.insert(END, b)
+    print("Hello")
 
 def clock() :
     string = strftime('%H : %M : %S : %p')
